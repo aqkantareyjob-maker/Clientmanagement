@@ -1,0 +1,6 @@
+{
+  "name": "MediFlow Clinical ERP",
+  "description": "A comprehensive clinical enterprise resource planning (ERP) platform featuring Patient Consultation, Admin Module, Staff Registration and Payment, Doctor Dashboard, Patient Profiles, and Secure Auth views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
